@@ -1,2 +1,2 @@
-# jewerly.github.io
+# jewerly.github.io/main.html
 national jewerly shop
